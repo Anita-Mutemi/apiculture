@@ -35,3 +35,12 @@ headerk{
     box-shadow: 0 1px 4px hsl(0 4% 15% / 10%);
     z-index: 100;
 }
+
+.navcontainer{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    text-indent: 100px;
+    padding: 20px 0;
+    background:rgb(255, 219, 88);   
+}
