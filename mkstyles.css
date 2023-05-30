@@ -1,0 +1,28 @@
+/*business css code*/
+.headerk{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-padding-top: 5rem;
+    list-style: none;
+    text-decoration: none;
+    position:absolute;
+    column-rule: 2px double #ff00ff;
+}
+
+.headerk{
+    background-color: yellow;
+}
+
+/*edited image view*/
+img{ 
+    width: 100%;
+}
+
+.bodymk{
+    color: var(--text -color);
+}
+
+section{
+    padding: 6rem 0 4rem;     
+}
