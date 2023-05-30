@@ -26,3 +26,12 @@ img{
 section{
     padding: 6rem 0 4rem;     
 }
+
+headerk{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 1px 4px hsl(0 4% 15% / 10%);
+    z-index: 100;
+}
