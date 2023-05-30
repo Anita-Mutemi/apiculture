@@ -175,3 +175,47 @@ headerk{
     text-align: center;
     margin-bottom: 2.0rem;
 }
+/*shop page*/
+.shop{
+    margin-top: 1rem;
+}
+
+.shop-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(220px,auto));
+    gap: 1.5rem;
+}
+
+.product-box{
+    position: relative;
+}
+
+.product-box:hover{
+    padding: 10px;
+    border: 3px solid orange;
+    transition: 0.5s;
+}
+
+.product-img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 0.5rem;
+}
+
+.product-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.price{
+    font-weight: 500;
+}
+
+.add-cart{
+    position: relative;
+    bottom: 0.9rem;
+    right: 0;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
