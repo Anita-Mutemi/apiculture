@@ -123,3 +123,12 @@ headerk{
     margin-top: 1.5rem;
     border-top: 2px solid black;  
 }
+
+.total-title{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.total-price{
+    margin-left: 0.5rem;
+}
