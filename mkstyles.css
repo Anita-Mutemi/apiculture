@@ -219,3 +219,80 @@ headerk{
     padding: 10px;
     cursor: pointer;
     font-size: 20px;
+}
+
+.cart{
+    position:fixed;
+}
+
+.add-cart:hover{
+    background-color: orange;
+}
+
+.emblem{
+    display: flex;
+}
+
+footer {
+  background-color: #121315;
+  color: #FFFFFF;
+  font-size: 16px;
+  height: 35rem;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 0%;
+}
+
+footer * {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+
+.main-chamber {
+  padding: 2em 1em;
+}
+
+.foot-chamber {
+  display: grid;
+  grid-template-columns: 2fr 1fr 2fr;
+  align-items: stretch;
+}
+
+.emblem_name {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.emblem{
+    flex-direction: column;
+    margin-left: 6%;
+    padding-top: 2.8%;
+}
+
+.emblem_area img {
+    max-width: 100%;
+    width: 150px;
+    height: 150px;
+}
+
+.emblem_name{
+    text-align: 10px;
+    font-size: larger;
+}
+
+.description {
+  text-align: justify;
+  line-height: 2;
+}
+
+.navigationlinks,
+.descpoint,
+.socialmedia,
+.huddles,
+.columnsubscribe {
+  list-style-type: none;
+  margin-top: 1em;
+}
