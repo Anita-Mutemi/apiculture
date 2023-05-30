@@ -44,3 +44,9 @@ headerk{
     padding: 20px 0;
     background:rgb(255, 219, 88);   
 }
+
+.logo {
+    font-size: 2.0rem;
+    color: orange;
+    font-weight: 700;
+}
