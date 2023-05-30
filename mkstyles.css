@@ -132,3 +132,18 @@ headerk{
 .total-price{
     margin-left: 0.5rem;
 }
+
+.btn-buy{
+    display: flex;
+    margin: 1.5rem auto 0 auto;
+    padding: 10px 15px;
+    border:none;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    background: orange;
+}
+
+.btn-buy:hover{
+    background-color: orangered;
+}
