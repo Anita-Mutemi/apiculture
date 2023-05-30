@@ -50,3 +50,8 @@ headerk{
     color: orange;
     font-weight: 700;
 }
+
+#cart-icon {
+    font-size: 2.0rem;
+    cursor: pointer;
+}
