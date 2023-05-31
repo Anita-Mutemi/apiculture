@@ -24,3 +24,10 @@
     font-size: 18px;
     line-height: 1.5;
   }
+.knowledgebase {
+    display: grid;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    height: 40vh;
+  
+  }
