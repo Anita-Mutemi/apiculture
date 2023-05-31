@@ -41,3 +41,41 @@
     font-size: 20px;
     margin-bottom: 10px;
   }
+.footkn {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    height: 20vh;
+  }
+  
+  .footkn p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .laini {
+    border: none;
+    border-top: 2px solid #333;
+    margin: 10px 0;
+  }
+  .slide-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+  
+  .slide-content.active {
+    max-height: 500px;
+    transition: max-height 0.3s ease;
+  }
+  .introductionkn,
+  .marketingkn,
+  .troubleshooting {
+    cursor: pointer;
+  }
+  .introductionkn:hover,
+  .marketingkn:hover,
+  .troubleshooting:hover {
+    background:linear-gradient(white, rgb(224, 124, 25))
+  }
