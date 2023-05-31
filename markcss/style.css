@@ -7,3 +7,8 @@
     padding: 20px;
     background:linear-gradient(rgb(226, 206, 206), rgb(165, 77, 42))
   }
+.headerkn {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(13, 38, 60);
+  }
