@@ -47,4 +47,15 @@
    width: 60%;
    font-size: 30px;
  }
+
+ #about #vision #mission #services #faqs #contacts, p{
+    margin-left: 230px;
+    width: 60%;
+    font-size: 22px;
+    color: azure;
+    border: 2px solid azure;
+    padding: 10px;
+    border-radius: 10px;
+    
+  }
  
