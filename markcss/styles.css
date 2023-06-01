@@ -19,7 +19,7 @@
 
   #bodybk{
     background-color: rgba(0, 0, 0, 0.432);
-    background-image: url("../assets/bee.jpg");
+    background-image: url("/home/moringa/apiculture/img/bee.jpg");
     background-size: cover;
     position: relative;
     background-blend-mode: darken;
