@@ -74,4 +74,17 @@
         
       }
 
+      .meetspan span{
+        color: rgb(255, 219, 88);
+      }
+      
+      .tab {
+        display: none;
+      }
+      
+      .tab.active {
+        display: block;
+        animation: slideIn 1s ease-in-out;
+      }
+
  
