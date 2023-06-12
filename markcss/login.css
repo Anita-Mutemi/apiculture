@@ -1,0 +1,36 @@
+body{
+   text-align: center;
+   border: 5rem;
+   overflow: hidden;
+}
+.btn ul a{
+    display: flex;
+    float: right;
+    text-decoration: solid;
+    top: -10rem;
+    position: relative;
+    color: white;
+    margin-right: 2rem;
+}
+.row{
+    background: url(../honey\ 2.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    font-size: 40px;
+    padding-top: 10%;
+
+}
+.row input{
+    border-radius: 5rem;
+    font-size: 30px;
+}
+.btn{
+    top: -7rem;
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+    font-size: 35px;
+    padding-right: 5%;
+    
+}

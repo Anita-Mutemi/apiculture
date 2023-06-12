@@ -1,0 +1,27 @@
+body{
+    background: url(../honey\ 7.jpg);
+    background-size: cover;
+    overflow: hidden;
+
+
+}
+.btn ul{
+    display: flex;
+    float: right;
+    text-decoration: solid;
+    top: -20rem;
+    position: relative;
+}
+.btn ul  a{
+    color: white;
+}
+.row{
+    text-align: center;
+    font-size: 45px;
+    border-radius: 4rem;
+}
+.row input{
+    font-size: 40px;
+    border-radius: 5rem;
+
+}
